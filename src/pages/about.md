@@ -3,34 +3,19 @@ layout: ../layouts/PageLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+## Who are we?
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+We are 750W, a team of dedicated robotics students enrolled in South Brunswick High School, which is located in Monmouth Junction, New Jersey. Our team consists of 13 members, representing a diverse range of backgrounds and skill sets.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Throughout the year, we participate in various robotics competitions, and also organize outreach events, where we share our love of technology with the community and inspire the next generation of engineers and scientists.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+Our team has seen great success in recent years, winning multiple awards at regional and state competitions. Some of our notable achievements include winning the Excellence Award at Camden Tech Robotics Competition and qualifying for the VEX Robotics States Championship 2022 and CREATE U.S. Open Robotics Championship 2022 in Council Bluffs, Iowa.
 
-## Tech Stack
+In addition to our competitive achievements, we also place a strong emphasis on teamwork, collaboration, and learning. We believe that the skills and experiences gained through robotics extend far beyond the competition arena, and are beneficial for a career in any STEM field.
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+## Members
 
-## Features
+### Gyan Mohanty, Captain
 
-Here are certain features of this site.
+<img src="/assets/members/gyan.png" alt="Gyan Mohanty" width="200" height="200">
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
